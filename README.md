@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteeltownRiot
 - 👀 I’m interested in data science, analytics, and game development
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on fun analytics projects, especially those involving veterans health
+- 💞️ I’m looking to collaborate on interesting analytics projects, especially those involving veterans health
 - 📫 How to reach me at johnchopsont17@gmail.com
 
 <!---
